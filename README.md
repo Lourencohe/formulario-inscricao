@@ -29,10 +29,13 @@ O formulário é estilizado com CSS moderno, incluindo cores, tipografia e respo
 
 ## 📂 Estrutura do Projeto
 
+```
 formulario/
-├── index.html — Página principal do formulário
-├── style.css — Estilos do formulário
-└── README.md — Documentação do projeto
+│
+├── index.html   # Página principal do formulário
+├── style.css    # Estilos do formulário
+└── README.md    # Documentação do projeto
+```
 
 ## 👨‍💻 Autor
 
